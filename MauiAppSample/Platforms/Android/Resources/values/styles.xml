@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="O365AdminAppTheme" parent="Theme.MaterialComponents.Light">
+    <!--   <item name="materialButtonStyle">@style/Widget.AppCompat.Button</item> -->
+    <!--   <item name="materialButtonStyle">@style/Widget.Material3.Button</item> -->
+  </style>
+</resources>
